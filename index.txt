@@ -1,25 +1,15 @@
-main-branch-1
-main-branch-2
-main-branch-3
+staging-branch-1
+staging-branch-2
+
+
+----feature-----
+feature-1
 
 
 
---adding main branch second commit---
-main-branch-1
-main-branch-2
-branch-2-branch-1
-branch-2-branch-2
 
 
----second commit----
-branch-2-branch-1
-branch-2-branch-2
-branch-2-branch-3
-branch-2-branch-1
-branch-2-branch-2
 
-
----second commit----
-branch-2-branch-1
-branch-2-branch-2
-branch-2-branch-3
+---staging----
+staging-1
+feature-2
