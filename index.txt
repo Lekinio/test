@@ -2,14 +2,4 @@ staging-branch-1
 staging-branch-2
 
 
-----feature-----
-feature-1
-
-
-
-
-
-
----staging----
-staging-1
-feature-2
+-----deleteting aalll----
