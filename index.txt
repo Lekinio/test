@@ -12,3 +12,4 @@ feature-1
 
 ---staging----
 staging-1
+feature-2
